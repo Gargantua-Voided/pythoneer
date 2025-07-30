@@ -1,10 +1,11 @@
 
 
-<img width="500" height="500" alt="pythoneer_logo" src="https://github.com/user-attachments/assets/c10603fb-2703-4747-b2b0-e86c0592d4b6" />
+<img width="300" height="300" alt="pythoneer_logo" src="https://github.com/user-attachments/assets/79e228a1-ea31-4450-8b28-7a593b278c46" />
 
 
 
-# 🚀 Portable Python Development Environment
+
+# 🐍 Portable Python Development Environment
 
 This project sets up a portable development environment with Python and Git, allowing you to code anywhere without installing anything on the host system! 
 
