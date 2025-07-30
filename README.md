@@ -1,6 +1,6 @@
 
 
-<img width="800" height="800" alt="pythoneer_logo" src="https://github.com/user-attachments/assets/c10603fb-2703-4747-b2b0-e86c0592d4b6" />
+<img width="500" height="500" alt="pythoneer_logo" src="https://github.com/user-attachments/assets/c10603fb-2703-4747-b2b0-e86c0592d4b6" />
 
 
 
